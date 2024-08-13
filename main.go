@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/phillebaba/mod-test/src/pkg/api"
+	"github.com/phillebaba/mod-test/src/api"
 	"github.com/phillebaba/mod-test/src/pkg/app"
 )
 
